@@ -19,10 +19,10 @@ This architecture separates email accounts by purpose and limits the impact of a
               ┌───────────────────────┼───────────────────────┐
               │                       │                       │
               ▼                       ▼                       ▼
-       ┌─────────────┐        ┌─────────────┐        ┌─────────────┐
-       │ Bank Email  │        │Personal Email│       │Programming  │
-       │             │        │             │        │   Email     │
-       └─────────────┘        └─────────────┘        └─────────────┘
+       ┌─────────────┐        ┌──────────────┐        ┌─────────────┐
+       │ Bank Email  │        │Personal Email│        │ Programming │
+       │             │        │              │        │   Email     │
+       └─────────────┘        └──────────────┘        └─────────────┘
 
 ```
 
