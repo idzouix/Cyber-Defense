@@ -30,17 +30,6 @@ This architecture separates email accounts by purpose and limits the impact of a
                                └─────────────┘
 ```
 
-## Account Roles
-
-| Account               | Purpose                                                                | Public?             |
-| --------------------- | ---------------------------------------------------------------------- | ------------------- |
-| **Recovery Email 1**  | Emergency recovery for the recovery infrastructure                     | ❌ Never             |
-| **Recovery Email 2**  | Secondary recovery account                                             | ❌ Never             |
-| **Bank Email**        | Banking, financial institutions, insurance, government services        | ❌ Private           |
-| **Personal Email**    | Personal communication and everyday services                           | ⚠️ Private          |
-| **Programming Email** | GitHub, GitLab, cloud platforms, developer services and certifications | ⚠️ Limited exposure |
-| **Social Email**      | Social media, communities and less-trusted services                    | ⚠️ More exposed     |
-
 ## Security Principles
 
 * Each account has a **unique password**.
