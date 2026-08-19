@@ -13,8 +13,10 @@ Emails for :
 - Social email
 - Personnal email
 - Programming email
---> each email account = its own password (see --password manager--) 
---> apply MFA (see --MFA--)
+
+each email account = its own password (see --password manager--) 
+
+apply MFA (see --MFA--)
 
 Burner emails : 
 (explain what is a burner email, when its best to take it, when not, risks  usage etc)
