@@ -1,5 +1,3 @@
-# Email Security
-
 # Email Security Architecture
 
 This architecture separates email accounts by purpose and limits the impact of a compromised account.
