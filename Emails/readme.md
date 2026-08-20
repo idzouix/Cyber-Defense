@@ -51,7 +51,7 @@ apply MFA  :
 
 Backup codes : get them stored in password manager (see --password manager--) or in separate usb keys / handwritten
 
--- remove third party associated app from the google account (on main accounts, we could have at least 30 accounts dependend on it : see --accounts--
+-- remove third party associated app from the google account if you can. its better to have disconnected your emails to associated third parties account : see --accounts--
 
 ## Burner emails : 
 (explain what is a burner email, when its best to take it, when not, risks  usage etc)
